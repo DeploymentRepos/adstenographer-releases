@@ -1,4 +1,4 @@
-# stenographer-releases
+# adstenographer-releases
 
 Published builds of Stenographer, a macOS app that records Claude Code session
 activity. This repo holds release output only; the source lives elsewhere.
