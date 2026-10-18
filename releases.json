@@ -9,12 +9,12 @@
       "minimumSystemVersion": "26.0",
       "notes": "notes/1.2.0.md",
       "pkg": {
-        "url": "https://github.com/agenticdevelopmentstudio/stenographer-releases/releases/download/v1.2.0/Stenographer-1.2.0.pkg",
+        "url": "https://github.com/DeploymentRepos/adstenographer-releases/releases/download/v1.2.0/Stenographer-1.2.0.pkg",
         "size": 31739569,
         "sha256": "4a22a9f0808631c9168e1dad171a4cd0b9f40843dca06161af4c2e918f244b7d"
       },
       "zip": {
-        "url": "https://github.com/agenticdevelopmentstudio/stenographer-releases/releases/download/v1.2.0/Stenographer-1.2.0.zip",
+        "url": "https://github.com/DeploymentRepos/adstenographer-releases/releases/download/v1.2.0/Stenographer-1.2.0.zip",
         "size": 31941188,
         "sha256": "e2ff0bd195ddc70ce56e9734a13e9bf25ee337c8d5ccfe891dbcf6c14759387f"
       }
@@ -26,12 +26,12 @@
       "minimumSystemVersion": "26.0",
       "notes": "notes/1.1.0.md",
       "pkg": {
-        "url": "https://github.com/agenticdevelopmentstudio/stenographer-releases/releases/download/v1.1.0/Stenographer-1.1.0.pkg",
+        "url": "https://github.com/DeploymentRepos/adstenographer-releases/releases/download/v1.1.0/Stenographer-1.1.0.pkg",
         "size": 31628363,
         "sha256": "b42074d53dee727e1e366481a0bc0c48f1ca578b7de8d4ac95d6e5f713203920"
       },
       "zip": {
-        "url": "https://github.com/agenticdevelopmentstudio/stenographer-releases/releases/download/v1.1.0/Stenographer-1.1.0.zip",
+        "url": "https://github.com/DeploymentRepos/adstenographer-releases/releases/download/v1.1.0/Stenographer-1.1.0.zip",
         "size": 31829979,
         "sha256": "5440a7888ae5ce8e7255659c9f3fcc1068b66ee2ada63f7e3dd691f96cd329aa"
       }
@@ -43,12 +43,12 @@
       "minimumSystemVersion": "26.0",
       "notes": "notes/1.0.178.0.md",
       "pkg": {
-        "url": "https://github.com/agenticdevelopmentstudio/stenographer-releases/releases/download/v1.0.178.0/Stenographer-1.0.178.0.pkg",
+        "url": "https://github.com/DeploymentRepos/adstenographer-releases/releases/download/v1.0.178.0/Stenographer-1.0.178.0.pkg",
         "size": 31628396,
         "sha256": "f1213dccf3ef1773f2aac88369a4fe44f40fcb9d05980f211546559d0e094ee6"
       },
       "zip": {
-        "url": "https://github.com/agenticdevelopmentstudio/stenographer-releases/releases/download/v1.0.178.0/Stenographer-1.0.178.0.zip",
+        "url": "https://github.com/DeploymentRepos/adstenographer-releases/releases/download/v1.0.178.0/Stenographer-1.0.178.0.zip",
         "size": 31830616,
         "sha256": "8292f8aa2f0eb934317d8c9c58ee10f39a5b58c002b3910c1c248bc879437564"
       }
@@ -60,12 +60,12 @@
       "minimumSystemVersion": "26.0",
       "notes": "notes/2.161.0.md",
       "pkg": {
-        "url": "https://github.com/agenticdevelopmentstudio/stenographer-releases/releases/download/v2.161.0/Stenographer-2.161.0.pkg",
+        "url": "https://github.com/DeploymentRepos/adstenographer-releases/releases/download/v2.161.0/Stenographer-2.161.0.pkg",
         "size": 30153237,
         "sha256": "d8eebe676950107841377125a75f4aef504cafe6df2c23f8a3939a985ba4d38e"
       },
       "zip": {
-        "url": "https://github.com/agenticdevelopmentstudio/stenographer-releases/releases/download/v2.161.0/Stenographer-2.161.0.zip",
+        "url": "https://github.com/DeploymentRepos/adstenographer-releases/releases/download/v2.161.0/Stenographer-2.161.0.zip",
         "size": 30325559,
         "sha256": "87542df8bf74ed61e2a0ce628e0ea7ecb80a3f2287f2ea7a36c23c4d42eeb981"
       }

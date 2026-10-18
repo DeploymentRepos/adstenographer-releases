@@ -4,7 +4,7 @@ cask "stenographer" do
   version "1.2.0"
   sha256 "4a22a9f0808631c9168e1dad171a4cd0b9f40843dca06161af4c2e918f244b7d"
 
-  url "https://github.com/agenticdevelopmentstudio/stenographer-releases/releases/download/v#{version}/Stenographer-#{version}.pkg"
+  url "https://github.com/DeploymentRepos/adstenographer-releases/releases/download/v#{version}/Stenographer-#{version}.pkg"
   name "Stenographer"
   desc "Records Claude Code session activity"
   homepage "https://agenticstenographer.app/"
