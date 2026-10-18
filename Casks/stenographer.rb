@@ -7,10 +7,10 @@ cask "stenographer" do
   url "https://github.com/DeploymentRepos/adstenographer-releases/releases/download/v#{version}/Stenographer-#{version}.pkg"
   name "Stenographer"
   desc "Records Claude Code session activity"
-  homepage "https://agenticstenographer.app/"
+  homepage "https://agenticdeveloperstenographer.com/"
 
   livecheck do
-    url "https://agenticstenographer.app/appcast.xml"
+    url "https://agenticdeveloperstenographer.com/appcast.xml"
     strategy :sparkle
   end
 
