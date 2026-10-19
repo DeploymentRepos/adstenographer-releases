@@ -1,8 +1,9 @@
-# Written by scripts/release.py in the Stenographer repo for each release.
+# Written for each release by the agentic developer toolkit's release CLI
+# (release_macos_app.py), from release/cask.rb.template in the Stenographer repo.
 # Do not edit by hand.
 cask "stenographer" do
-  version "1.2.0"
-  sha256 "4a22a9f0808631c9168e1dad171a4cd0b9f40843dca06161af4c2e918f244b7d"
+  version "1.3.0"
+  sha256 "52d62e4492736c4cf49af5995a645f1394afb4ab7447a5fe93aecc653584aeea"
 
   url "https://github.com/DeploymentRepos/adstenographer-releases/releases/download/v#{version}/Stenographer-#{version}.pkg"
   name "Stenographer"

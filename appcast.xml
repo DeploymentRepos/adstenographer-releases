@@ -6,6 +6,41 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Stenographer</title>
         <item>
+            <title>1.3.0</title>
+            <pubDate>Sun, 18 Oct 2026 16:51:27 -0700</pubDate>
+            <sparkle:version>603</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# 1.3.0
+
+Stenographer is in beta. These are the changes since 1.2.0.
+
+- **Account router (off by default).** Stenographer can now sit between Claude
+  Code and Anthropic on `localhost:22848` and spread requests across your saved
+  Claude accounts, moving off an account that hits its rate limit. Turn it on
+  in Settings or with `steno router enable`. `steno router report` and
+  `steno router log` show what it did. While the router is on, stopping
+  Stenographer points Claude Code straight back at Anthropic until Stenographer
+  starts again. This is new and has had limited real-world use.
+- **Claude model router with templates.** With the router on, a template can
+  pick which Claude model handles each kind of request — for example, a
+  cheaper model for side requests. Templates are edited in their own dialog,
+  and the routing log window shows each request and the rule that routed it.
+  The router uses the same proxy and certificate settings Claude Code does;
+  this has not been tried behind a corporate proxy.
+- **Accounts in Settings.** A new **Accounts** pane signs you in to the
+  Agentic Developer Hub through the hub's own web page. It is a first sign-in
+  path, not a finished account system.
+- **Account switching no longer freezes.** A switch that got stuck waiting on
+  a credential check could hang the quotas window. Every wait now has a time
+  limit.
+- **Quota sections stay after a quota week ends.** Accounts whose weekly quota
+  window had lapsed could drop out of the usage display; they now stay.
+]]></description>
+            <enclosure url="https://github.com/DeploymentRepos/adstenographer-releases/releases/download/v1.3.0/Stenographer-1.3.0.zip" length="48722155" type="application/octet-stream" sparkle:edSignature="2bEwB7/ZMIcZN+5cMLp6i7BwJisE24G9rWvMrBIr22pamnpyc8sXrO/fuXbDd/ASaoPMpjbx7kAvgSrQemGvDA=="/>
+        </item>
+        <item>
             <title>1.2.0</title>
             <pubDate>Fri, 09 Oct 2026 15:17:55 -0700</pubDate>
             <sparkle:version>482</sparkle:version>
@@ -161,6 +196,6 @@ First packaged release.
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: RhNwAxsaznIuTbPegS23FixbHbwwjWgHDcMM3isEM1vSbkblULkqnUUHMprNI/5M0EFSFjHMf90J96B2RHkNBg==
-length: 10666
+edSignature: AxgD50GBavDpf8EH37fpMTSIgeXnbCOlb68sTToNIGmN2vbBQ6v/KrF/xa4YlpvK6KgUsuoKmKPJMOokodX/Aw==
+length: 12956
 -->
