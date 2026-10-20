@@ -1,7 +1,24 @@
 {
   "schema": 1,
-  "latest": "1.3.0",
+  "latest": "1.4.0",
   "releases": [
+    {
+      "version": "1.4.0",
+      "build": 624,
+      "date": "2026-10-20T19:24:10Z",
+      "minimumSystemVersion": "26.0",
+      "notes": "notes/1.4.0.md",
+      "pkg": {
+        "url": "https://github.com/DeploymentRepos/adstenographer-releases/releases/download/v1.4.0/Stenographer-1.4.0.pkg",
+        "size": 48605285,
+        "sha256": "a6420686add6c642b237d2aeccd7c3ff8a66ecf364a6ab78d1e98940edd11826"
+      },
+      "zip": {
+        "url": "https://github.com/DeploymentRepos/adstenographer-releases/releases/download/v1.4.0/Stenographer-1.4.0.zip",
+        "size": 48826558,
+        "sha256": "106f1680bb8246b931418d9a89dac9032a248ec06af6bf0f2e331204649d3822"
+      }
+    },
     {
       "version": "1.3.0",
       "build": 603,

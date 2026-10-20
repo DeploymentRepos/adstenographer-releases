@@ -2,8 +2,8 @@
 # (release_macos_app.py), from release/cask.rb.template in the Stenographer repo.
 # Do not edit by hand.
 cask "stenographer" do
-  version "1.3.0"
-  sha256 "52d62e4492736c4cf49af5995a645f1394afb4ab7447a5fe93aecc653584aeea"
+  version "1.4.0"
+  sha256 "a6420686add6c642b237d2aeccd7c3ff8a66ecf364a6ab78d1e98940edd11826"
 
   url "https://github.com/DeploymentRepos/adstenographer-releases/releases/download/v#{version}/Stenographer-#{version}.pkg"
   name "Stenographer"
